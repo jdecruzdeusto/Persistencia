@@ -1,7 +1,7 @@
 
-# Reto: Procesamiento de Datos
+# Reto: Persistencia de Datos
 
-Introducción a FastApi, pydantic y OAuth
+Introducción a InfluxDB
 
 ## Descripción:
 
